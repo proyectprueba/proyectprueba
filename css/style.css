@@ -87,6 +87,11 @@ body {
   height: 150%;
 }
 
+#texto{
+  display: inline-block;
+  vertical-align: middle;
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
